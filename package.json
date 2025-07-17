@@ -1,0 +1,24 @@
+{
+  "name": "backend-3d-draft-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmendes477/backend-3d-draft-game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmendes477/backend-3d-draft-game/issues"
+  },
+  "homepage": "https://github.com/jmendes477/backend-3d-draft-game#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "socket.io": "^4.8.1"
+  }
+}
